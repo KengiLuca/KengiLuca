@@ -1,6 +1,7 @@
 ### Hello, I'm Kengi 👋
 
 *🔭 Independently I’m currently working on building a Flask api with Jinja templating
+<br>
 *👯 Collaboratively I am currently working on building an application (app idea) using aigle principles
 
 ### Tech Stack
