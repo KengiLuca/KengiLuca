@@ -12,7 +12,8 @@ Here are all the languages and tools I have learnt so far throughout my tech jou
 
 ### Connect with me
 <br>
-![LinkedIn](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kengi-luca-lambertini-7a687b226/)
+
 
 <!--
 **KengiLuca/KengiLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
