@@ -2,7 +2,7 @@
 
 *🔭 Independently I’m currently working on building a Flask api with Jinja templating
 <br>
-*👯 Collaboratively I am currently working on building an application (app idea) using aigle principles
+*👯 Collaboratively I am currently working on building an application using aigle principles
 
 ### Tech Stack :gear:	
 Here are all the languages and tools I have applied so far throughout my tech journey!
